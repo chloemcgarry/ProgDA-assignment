@@ -12,12 +12,23 @@ There are four distinct tasks to be carried out in your Jupyter notebook.
 
 
 References:
-https://www.sharpsightlabs.com/blog/numpy-random-seed/
-https://www.geeksforgeeks.org/numpy-in-python-set-1-introduction/
-https://docs.scipy.org/doc/numpy-1.14.0/reference/routines.random.html#permutations
-https://www.quora.com/What-is-seed-in-random-number-generation
-https://www.edureka.co/community/25335/what-exactly-is-the-function-of-random-seed-in-python
-https://pynative.com/python-random-seed/
-http://mathworld.wolfram.com/ExponentialDistribution.html
-https://www.statisticshowto.datasciencecentral.com/geometric-distribution/
-https://en.wikipedia.org/wiki/Poisson_distribution
+
+1. https://www.sharpsightlabs.com/blog/numpy-random-seed/
+
+2. https://www.geeksforgeeks.org/numpy-in-python-set-1-introduction/
+
+3. https://docs.scipy.org/doc/numpy-1.14.0/reference/routines.random.html#permutations
+
+4. https://www.quora.com/What-is-seed-in-random-number-generation
+
+5. https://www.edureka.co/community/25335/what-exactly-is-the-function-of-random-seed-in-python
+
+6. https://pynative.com/python-random-seed/
+
+7. http://mathworld.wolfram.com/ExponentialDistribution.html
+
+8. https://www.statisticshowto.datasciencecentral.com/geometric-distribution/
+
+9. https://en.wikipedia.org/wiki/Poisson_distribution
+
+10. Lecture videos for this module and Fundamentals of Data Analysis module in GMIT
